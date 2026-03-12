@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6904ebfab0418a041edf9d3b?variant=dark" alt="roadmap.sh"/></a>
-
+[![roadmap.sh](https://roadmap.sh/card/tall/6904ebfab0418a041edf9d3b?variant=dark&roadmaps=javascript%2Cfull-stack%2Clinux)](https://roadmap.sh)
 <!--
 **eolnardo/eolnardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
